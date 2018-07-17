@@ -2,7 +2,7 @@
 
 ``` bash
 
-#Установка pytedt в Linux через менеджер пакетов pip:
+#Установка pytest в Linux через менеджер пакетов pip:
 pip install -U pytest
 
 #Запуск теста:
