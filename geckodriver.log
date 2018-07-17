@@ -1,0 +1,621 @@
+1531212778019	geckodriver	INFO	geckodriver 0.19.1
+1531212778023	geckodriver	INFO	Listening on 127.0.0.1:53263
+1531212778118	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.n3aEfL4P7gMP"
+1531212780473	Marionette	INFO	Listening on port 44485
+1531212780559	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 20026, Chrome_ChildThread] WARNING: pipe error (32): Connection reset by peer: file /build/firefox-QrvFEH/firefox-61.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 20026, Chrome_ChildThread] WARNING: pipe error (22): Connection reset by peer: file /build/firefox-QrvFEH/firefox-61.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 20026, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-QrvFEH/firefox-61.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1531213035434	geckodriver	INFO	geckodriver 0.19.1
+1531213035438	geckodriver	INFO	Listening on 127.0.0.1:45695
+1531213035536	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.HEQLSOs9XKMG"
+1531213037378	Marionette	INFO	Listening on port 35325
+1531213037476	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 20328, Gecko_IOThread] WARNING: pipe error (100): Connection reset by peer: file /build/firefox-QrvFEH/firefox-61.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1531213076816	geckodriver	INFO	geckodriver 0.19.1
+1531213076820	geckodriver	INFO	Listening on 127.0.0.1:46425
+1531213076918	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.jGDW04I4l3ej"
+1531213078757	Marionette	INFO	Listening on port 44363
+1531213078851	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://yastatic.net/pcode/media/loader.js, line 1: TypeError: window.Ya.Metrika is not a constructor
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1531213637014	geckodriver	INFO	geckodriver 0.19.1
+1531213637020	geckodriver	INFO	Listening on 127.0.0.1:51783
+1531213637118	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.oWmGFTtZ82GZ"
+1531213639717	Marionette	INFO	Listening on port 37017
+1531213639780	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x550027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 21432, Gecko_IOThread] WARNING: pipe error (42): Connection reset by peer: file /build/firefox-QrvFEH/firefox-61.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1531213977415	geckodriver	INFO	geckodriver 0.19.1
+1531213977418	geckodriver	INFO	Listening on 127.0.0.1:46623
+1531213977514	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.g9mBHhrbWc1L"
+1531213979419	Marionette	INFO	Listening on port 36717
+1531213979448	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:21961): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1531214527035	geckodriver	INFO	geckodriver 0.19.1
+1531214527052	geckodriver	INFO	Listening on 127.0.0.1:51835
+1531214529155	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.I9KhPjR1EYcF"
+1531214531100	Marionette	INFO	Listening on port 45815
+1531214531189	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:22700): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+[Child 22700, Chrome_ChildThread] WARNING: pipe error (37): Connection reset by peer: file /build/firefox-QrvFEH/firefox-61.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 22700, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-QrvFEH/firefox-61.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 22700, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-QrvFEH/firefox-61.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 22700, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-QrvFEH/firefox-61.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 22700, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-QrvFEH/firefox-61.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 22700, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-QrvFEH/firefox-61.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 22700, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-QrvFEH/firefox-61.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 22700, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-QrvFEH/firefox-61.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 22700, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-QrvFEH/firefox-61.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 22700, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-QrvFEH/firefox-61.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 22700, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-QrvFEH/firefox-61.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 22700, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-QrvFEH/firefox-61.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 22700, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-QrvFEH/firefox-61.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 22700, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-QrvFEH/firefox-61.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 22700, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-QrvFEH/firefox-61.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 22700, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-QrvFEH/firefox-61.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 22700, Chrome_ChildThread] WARNING: pipe error (22): Connection reset by peer: file /build/firefox-QrvFEH/firefox-61.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 22700, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-QrvFEH/firefox-61.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1531215012948	geckodriver	INFO	geckodriver 0.19.1
+1531215012951	geckodriver	INFO	Listening on 127.0.0.1:55761
+1531215013046	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.7LnuSJkjr7aa"
+1531215014946	Marionette	INFO	Listening on port 46839
+1531215014985	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.maximonline.ru/, line 77: ReferenceError: osdlfm is not defined
+JavaScript error: https://www.maximonline.ru/, line 10: ReferenceError: osdlfm is not defined
+JavaScript error: https://www.maximonline.ru/, line 42: ReferenceError: osdlfm is not defined
+JavaScript error: https://www.maximonline.ru/, line 1: ReferenceError: osdlfm is not defined
+[Child 23316, Chrome_ChildThread] WARNING: pipe error (22): Connection reset by peer: file /build/firefox-QrvFEH/firefox-61.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 23316, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-QrvFEH/firefox-61.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1531735746046	geckodriver	INFO	geckodriver 0.19.1
+1531735746082	geckodriver	INFO	Listening on 127.0.0.1:39363
+1531735747195	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.AkyShG8N6Umr"
+1531735749968	Marionette	INFO	Listening on port 33043
+1531735750076	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:15343): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 15343, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1531816104270	geckodriver	INFO	geckodriver 0.19.1
+1531816104314	geckodriver	INFO	Listening on 127.0.0.1:43169
+1531816105444	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.ZQVlXi02ujFa"
+1531816108071	Marionette	INFO	Listening on port 40425
+1531816108112	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:20024): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+[Parent 19933, Gecko_IOThread] WARNING: pipe error (98): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1531816238321	geckodriver	INFO	geckodriver 0.19.1
+1531816238324	geckodriver	INFO	Listening on 127.0.0.1:42637
+1531816238415	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.r76QX1R4gTNM"
+1531816240344	Marionette	INFO	Listening on port 33031
+1531816240357	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://tpc.googlesyndication.com/safeframe/1-0-29/html/container.html, line 34: TypeError: cjs.Sprite is not a constructor
+[Child 20441, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1531816624291	geckodriver	INFO	geckodriver 0.19.1
+1531816624294	geckodriver	INFO	Listening on 127.0.0.1:41795
+1531816629393	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.X2QNT828k9bC"
+1531816631334	Marionette	INFO	Listening on port 43921
+1531816634401	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cstatic.weborama.fr/iframe/external_ids_sync.html?d.r=1531816648416, line 53: ReferenceError: Utils is not defined
+JavaScript error: https://cstatic.weborama.fr/iframe/external_all.html, line 66: ReferenceError: Utils is not defined
+[Child 20935, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 20935, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Parent 20857, Gecko_IOThread] WARNING: pipe error (53): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1531816788346	geckodriver	INFO	geckodriver 0.19.1
+1531816788350	geckodriver	INFO	Listening on 127.0.0.1:52467
+1531816788447	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.ZX6G6SuFAXMm"
+1531816790404	Marionette	INFO	Listening on port 36417
+1531816790492	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.maximonline.ru/, line 1: ReferenceError: osdlfm is not defined
+JavaScript error: https://www.maximonline.ru/, line 10: ReferenceError: osdlfm is not defined
+JavaScript error: https://www.maximonline.ru/, line 42: ReferenceError: osdlfm is not defined
+JavaScript error: https://www.maximonline.ru/, line 1: ReferenceError: osdlfm is not defined
+[Child 21317, Chrome_ChildThread] WARNING: pipe error (22): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 21317, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1531816890928	geckodriver	INFO	geckodriver 0.19.1
+1531816890931	geckodriver	INFO	Listening on 127.0.0.1:46957
+1531816891025	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.wnxjpBF2mgXR"
+1531816893018	Marionette	INFO	Listening on port 35259
+1531816893066	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:21630): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+JavaScript error: https://www.maximonline.ru/, line 1: ReferenceError: osdlfm is not defined
+JavaScript error: https://www.maximonline.ru/, line 10: ReferenceError: osdlfm is not defined
+JavaScript error: https://www.maximonline.ru/, line 42: ReferenceError: osdlfm is not defined
+JavaScript error: https://www.maximonline.ru/, line 1: ReferenceError: osdlfm is not defined
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 21630, Chrome_ChildThread] WARNING: pipe error (23): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 21630, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1531816931443	geckodriver	INFO	geckodriver 0.19.1
+1531816931448	geckodriver	INFO	Listening on 127.0.0.1:58713
+1531816931544	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Y1L7tAWE8K8g"
+1531816933522	Marionette	INFO	Listening on port 33399
+1531816933619	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:21847): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+JavaScript error: https://www.maximonline.ru/, line 1: ReferenceError: osdlfm is not defined
+JavaScript error: https://www.maximonline.ru/, line 10: ReferenceError: osdlfm is not defined
+JavaScript error: https://www.maximonline.ru/, line 42: ReferenceError: osdlfm is not defined
+JavaScript error: https://www.maximonline.ru/, line 1: ReferenceError: osdlfm is not defined
+JavaScript error: https://www.maximonline.ru/, line 21: TypeError: cjs.Sprite is not a constructor
+[Child 21847, Chrome_ChildThread] WARNING: pipe error (22): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 21847, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1531817013667	geckodriver	INFO	geckodriver 0.19.1
+1531817013671	geckodriver	INFO	Listening on 127.0.0.1:38733
+1531817018772	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.fwGP6rIXA9gg"
+1531817020689	Marionette	INFO	Listening on port 38801
+1531817023780	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:22134): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+[Child 22134, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1531817061604	geckodriver	INFO	geckodriver 0.19.1
+1531817061608	geckodriver	INFO	Listening on 127.0.0.1:43337
+1531817064207	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.8nIVXoVY2eNM"
+1531817066123	Marionette	INFO	Listening on port 39685
+1531817069980	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:22367): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+JavaScript error: https://www.maximonline.ru/, line 1: ReferenceError: osdlfm is not defined
+JavaScript error: https://www.maximonline.ru/, line 10: ReferenceError: osdlfm is not defined
+JavaScript error: https://www.maximonline.ru/, line 42: ReferenceError: osdlfm is not defined
+JavaScript error: https://www.maximonline.ru/, line 1: ReferenceError: osdlfm is not defined
+JavaScript error: https://www.maximonline.ru/, line 21: TypeError: cjs.Sprite is not a constructor
+[Child 22367, Chrome_ChildThread] WARNING: pipe error (22): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 22367, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1531817280868	geckodriver	INFO	geckodriver 0.19.1
+1531817280871	geckodriver	INFO	Listening on 127.0.0.1:52337
+1531817280966	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.RGmRY6AL6Io8"
+1531817282929	Marionette	INFO	Listening on port 40853
+1531817283014	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:22807): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+[Child 22807, Chrome_ChildThread] WARNING: pipe error (22): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 22807, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1531817444576	geckodriver	INFO	geckodriver 0.19.1
+1531817444580	geckodriver	INFO	Listening on 127.0.0.1:49019
+1531817444675	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.HeIQyycdcBmu"
+1531817446637	Marionette	INFO	Listening on port 45535
+1531817446743	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:23074): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+JavaScript error: https://www.maximonline.ru/, line 21: TypeError: cjs.Sprite is not a constructor
+JavaScript error: https://www.maximonline.ru/, line 2492: ReferenceError: osdlfm is not defined
+JavaScript error: https://www.maximonline.ru/, line 10: ReferenceError: osdlfm is not defined
+JavaScript error: https://www.maximonline.ru/, line 42: ReferenceError: osdlfm is not defined
+JavaScript error: https://www.maximonline.ru/, line 1: ReferenceError: osdlfm is not defined
+JavaScript error: resource:///modules/ContentMetaHandler.jsm, line 155: NS_ERROR_ILLEGAL_VALUE: 
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 23074, Chrome_ChildThread] WARNING: pipe error (22): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 23074, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1531817494633	geckodriver	INFO	geckodriver 0.19.1
+1531817494637	geckodriver	INFO	Listening on 127.0.0.1:46579
+1531817494732	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.KiNZpfUzG9f3"
+1531817496729	Marionette	INFO	Listening on port 44115
+1531817496780	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:23319): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+JavaScript error: https://www.maximonline.ru/, line 1: ReferenceError: osdlfm is not defined
+JavaScript error: https://www.maximonline.ru/, line 10: ReferenceError: osdlfm is not defined
+JavaScript error: https://www.maximonline.ru/, line 42: ReferenceError: osdlfm is not defined
+[Child 23319, Chrome_ChildThread] WARNING: pipe error (32): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 23319, Chrome_ChildThread] WARNING: pipe error (23): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 23319, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1531817649656	geckodriver	INFO	geckodriver 0.19.1
+1531817649660	geckodriver	INFO	Listening on 127.0.0.1:58829
+1531817649756	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.2pbL6oyu331k"
+1531817651745	Marionette	INFO	Listening on port 33909
+1531817651796	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x490006,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x49000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x49000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x49000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 23499, Gecko_IOThread] WARNING: pipe error (53): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1531817799941	geckodriver	INFO	geckodriver 0.19.1
+1531817799945	geckodriver	INFO	Listening on 127.0.0.1:48945
+1531817800040	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.xwYtWEXNvLtP"
+1531817802045	Marionette	INFO	Listening on port 45173
+1531817802087	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ads.adfox.ru/233605/prepareCode?bids=W10%3D&dl=https%3A%2F%2Fwww.maximonline.ru%2F&date=2018-07-17T15%3A56%3A59.144%2B07%3A00&pd=17&pdh=1080&pdw=1920&pr1=397189021&pr=1037613145&prr=&pv=15&pw=2&ylv=0.906&ybv=0.906&extid_loader=MTUzMTgxNzgwOTg0ODI4NzkzNA%3D%3D&extid_tag_loader=www.maximonline.ru&ytt=1573&is-turbo=0&skip-token=&ad-session-id=5505881531817819149&layout-config=%7B%22win_width%22%3A1280%2C%22win_height%22%3A875%2C%22width%22%3A300%2C%22height%22%3A0%2C%22left%22%3A833%2C%22top%22%3A697%2C%22visible%22%3A1%2C%22req_no%22%3A0%7D&enable-flat-highlight=1&p1=cbepw&p2=fhca&puid1=&puid2=&puid3=&puid5=&puid10=&puid11=&puid12=&puid13=&puid15=&puid18=&puid19=&puid21=&puid22=&puid23=&puid24=&puid25=&puid26=&puid27=&puid30=&puid33=&puid34=&puid35=&puid36=&puid37=&puid41=&puid60=&puid62=&puid63=&utf8=%E2%9C%93&grab=dNCc0YPQttGB0LrQvtC5INC20YPRgNC90LDQuyBNQVhJTSBPbmxpbmUuINCe0YTQuNGG0LjQsNC70YzQvdGL0Lkg0YHQsNC50YIg0LvRg9GH0YjQtdCz0L4g0LzRg9C20YHQutC-0LPQviDQttGD0YDQvdCw0LvQsCBNQVhJTS4K, line 121: TypeError: parent is null
+1531817956340	geckodriver	INFO	geckodriver 0.19.1
+1531817956344	geckodriver	INFO	Listening on 127.0.0.1:50307
+1531817956445	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.JC4C6OZO59Dj"
+1531817958786	Marionette	INFO	Listening on port 43155
+1531817958806	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:24171): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1531817977271	geckodriver	INFO	geckodriver 0.19.1
+1531817977280	geckodriver	INFO	Listening on 127.0.0.1:36275
+1531817978435	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Jm7OlFO0wdbw"
+1531817983963	Marionette	INFO	Listening on port 37857
+1531817984805	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 24286, Gecko_IOThread] WARNING: pipe error (86): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 24286, Gecko_IOThread] WARNING: pipe error (74): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1531818040778	geckodriver	INFO	geckodriver 0.19.1
+1531818040786	geckodriver	INFO	Listening on 127.0.0.1:39009
+1531818046961	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.6icnJ7BEgYB7"
+1531818049502	Marionette	INFO	Listening on port 32957
+1531818051971	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:24649): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+JavaScript error: https://www.maximonline.ru/, line 1: ReferenceError: osdlfm is not defined
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1531818099000	geckodriver	INFO	geckodriver 0.19.1
+1531818099004	geckodriver	INFO	Listening on 127.0.0.1:52449
+1531818099104	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.h3rGKN1cJhNY"
+1531818101133	Marionette	INFO	Listening on port 34557
+1531818101167	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://tpc.googlesyndication.com/safeframe/1-0-29/html/container.html, line 34: TypeError: cjs.Sprite is not a constructor
+JavaScript error: https://www.maximonline.ru/, line 121: TypeError: parent is null
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+1531818224489	geckodriver	INFO	geckodriver 0.19.1
+1531818224493	geckodriver	INFO	Listening on 127.0.0.1:41393
+1531818224610	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.6pkWrTKze9g9"
+1531818227020	Marionette	INFO	Listening on port 36199
+1531818227070	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:25157): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+JavaScript error: https://www.maximonline.ru/, line 10: ReferenceError: osdlfm is not defined
+JavaScript error: https://www.maximonline.ru/, line 42: ReferenceError: osdlfm is not defined
+JavaScript error: https://www.maximonline.ru/, line 1: ReferenceError: osdlfm is not defined
+JavaScript error: https://www.maximonline.ru/, line 21: TypeError: cjs.Sprite is not a constructor
+JavaScript error: https://www.maximonline.ru/, line 121: TypeError: parent is null
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/instream/video/client.js, line 32: NS_ERROR_NOT_INITIALIZED: 
+[Parent 24799, Gecko_IOThread] WARNING: pipe error (96): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 24799, Gecko_IOThread] WARNING: pipe error (53): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 23797, Gecko_IOThread] WARNING: pipe error (53): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1531819183926	geckodriver	INFO	geckodriver 0.19.1
+1531819183945	geckodriver	INFO	Listening on 127.0.0.1:34265
+1531819190062	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.NNyH63772292"
+1531819192298	Marionette	INFO	Listening on port 33397
+1531819195070	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:27834): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+[Parent 27742, Gecko_IOThread] WARNING: pipe error (42): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1531819567403	geckodriver	INFO	geckodriver 0.19.1
+1531819567407	geckodriver	INFO	Listening on 127.0.0.1:42993
+1531819567501	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.AYK43mgnHsOd"
+1531819569405	Marionette	INFO	Listening on port 38921
+1531819569448	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:28526): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1531819640372	geckodriver	INFO	geckodriver 0.19.1
+1531819640379	geckodriver	INFO	Listening on 127.0.0.1:34249
+1531819641476	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.RngKTznlKXcU"
+1531819643530	Marionette	INFO	Listening on port 38331
+1531819643641	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:28776): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+[Child 28776, Chrome_ChildThread] WARNING: pipe error (22): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 28776, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1531819697727	geckodriver	INFO	geckodriver 0.19.1
+1531819697732	geckodriver	INFO	Listening on 127.0.0.1:38093
+1531819697833	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.JQva09Cy8fk9"
+1531819699931	Marionette	INFO	Listening on port 38401
+1531819701358	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:28992): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[Child 28992, Chrome_ChildThread] WARNING: pipe error (20): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 28992, Chrome_ChildThread] WARNING: pipe error (33): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 28992, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1531821722009	geckodriver	INFO	geckodriver 0.19.1
+1531821722016	geckodriver	INFO	Listening on 127.0.0.1:45119
+1531821728114	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.eNyl6R9gmEAZ"
+1531821730194	Marionette	INFO	Listening on port 40801
+1531821733122	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:30579): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+JavaScript error: https://cstatic.weborama.fr/iframe/external_ids_sync.html?d.r=1531821744884, line 53: ReferenceError: Utils is not defined
+JavaScript error: https://cstatic.weborama.fr/iframe/external_all.html, line 66: ReferenceError: Utils is not defined
+[Child 30579, Chrome_ChildThread] WARNING: pipe error (22): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 30579, Chrome_ChildThread] WARNING: pipe error (33): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 30579, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1531821773445	geckodriver	INFO	geckodriver 0.19.1
+1531821773449	geckodriver	INFO	Listening on 127.0.0.1:55859
+1531821773557	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.z3aRMq0e0SZs"
+1531821775721	Marionette	INFO	Listening on port 37947
+1531821775818	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:30780): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+JavaScript error: https://www.maximonline.ru/, line 1: ReferenceError: osdlfm is not defined
+JavaScript error: https://www.maximonline.ru/, line 10: ReferenceError: osdlfm is not defined
+JavaScript error: https://www.maximonline.ru/, line 42: ReferenceError: osdlfm is not defined
+JavaScript error: https://www.maximonline.ru/, line 1: ReferenceError: osdlfm is not defined
+1531821994398	geckodriver	INFO	geckodriver 0.19.1
+1531821994406	geckodriver	INFO	Listening on 127.0.0.1:42387
+1531821994529	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.EEaX2bLuDHHl"
+1531821997262	Marionette	INFO	Listening on port 46019
+1531821997306	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:31127): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+JavaScript error: https://www.maximonline.ru/, line 1: ReferenceError: osdlfm is not defined
+JavaScript error: https://www.maximonline.ru/, line 10: ReferenceError: osdlfm is not defined
+JavaScript error: https://www.maximonline.ru/, line 42: ReferenceError: osdlfm is not defined
+JavaScript error: https://www.maximonline.ru/, line 1: ReferenceError: osdlfm is not defined
+JavaScript error: https://www.maximonline.ru/, line 21: TypeError: cjs.Sprite is not a constructor
+[Parent 31056, Gecko_IOThread] WARNING: pipe error (53): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1531822108753	geckodriver	INFO	geckodriver 0.19.1
+1531822108758	geckodriver	INFO	Listening on 127.0.0.1:46985
+1531822108875	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.P7pYUdkED18X"
+1531822111346	Marionette	INFO	Listening on port 40673
+1531822111456	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:31497): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+JavaScript error: https://www.maximonline.ru/, line 1: ReferenceError: osdlfm is not defined
+JavaScript error: https://www.maximonline.ru/, line 10: ReferenceError: osdlfm is not defined
+JavaScript error: https://www.maximonline.ru/, line 42: ReferenceError: osdlfm is not defined
+JavaScript error: https://www.maximonline.ru/, line 1: ReferenceError: osdlfm is not defined
+JavaScript warning: https://cdn.rutarget.ru/static/viewability/viewability.js, line 8: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1531822203886	geckodriver	INFO	geckodriver 0.19.1
+1531822203891	geckodriver	INFO	Listening on 127.0.0.1:35263
+1531822203997	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.9tLhVIBJjY1p"
+1531822206556	Marionette	INFO	Listening on port 45621
+1531822206737	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:31784): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1531822355507	geckodriver	INFO	geckodriver 0.19.1
+1531822355511	geckodriver	INFO	Listening on 127.0.0.1:44917
+1531822355624	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.lnXsRvcFWpYY"
+1531822358131	Marionette	INFO	Listening on port 33277
+1531822358190	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:32022): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+JavaScript error: https://www.maximonline.ru/, line 1: ReferenceError: osdlfm is not defined
+JavaScript error: https://www.maximonline.ru/, line 10: ReferenceError: osdlfm is not defined
+JavaScript error: https://www.maximonline.ru/, line 42: ReferenceError: osdlfm is not defined
+JavaScript error: https://www.maximonline.ru/, line 1: ReferenceError: osdlfm is not defined
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 32064, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 32022, Chrome_ChildThread] WARNING: pipe error (20): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 32022, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1531822439443	geckodriver	INFO	geckodriver 0.19.1
+1531822439448	geckodriver	INFO	Listening on 127.0.0.1:55011
+1531822439562	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.wtL0wmERvVDg"
+1531822441994	Marionette	INFO	Listening on port 37169
+1531822442021	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:32248): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+[Child 32248, Chrome_ChildThread] WARNING: pipe error (22): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 32248, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 28425, Gecko_IOThread] WARNING: pipe error (98): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1531822531661	geckodriver	INFO	geckodriver 0.19.1
+1531822531669	geckodriver	INFO	Listening on 127.0.0.1:47875
+1531822531769	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.UWZ3IoM6EJ4A"
+1531822533932	Marionette	INFO	Listening on port 44903
+1531822534054	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:32486): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+JavaScript warning: https://cdn.rutarget.ru/static/viewability/viewability.js, line 8: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 32405, Gecko_IOThread] WARNING: pipe error (86): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1531822613356	geckodriver	INFO	geckodriver 0.19.1
+1531822613360	geckodriver	INFO	Listening on 127.0.0.1:35589
+1531822613459	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.r7gXtFKUnH3f"
+1531822615543	Marionette	INFO	Listening on port 34651
+1531822615601	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:32713): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+[Parent 32629, Gecko_IOThread] WARNING: pipe error (90): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 32629, Gecko_IOThread] WARNING: pipe error (53): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1531823673715	geckodriver	INFO	geckodriver 0.19.1
+1531823673719	geckodriver	INFO	Listening on 127.0.0.1:51183
+1531823673816	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.qLwi7MYTl8xx"
+1531823675947	Marionette	INFO	Listening on port 46551
+1531823675974	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:934): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+JavaScript error: https://www.maximonline.ru/, line 1: ReferenceError: osdlfm is not defined
+JavaScript error: https://www.maximonline.ru/, line 235: ReferenceError: osdlfm is not defined
+JavaScript error: https://www.maximonline.ru/, line 42: ReferenceError: osdlfm is not defined
+JavaScript error: https://www.maximonline.ru/, line 1: ReferenceError: osdlfm is not defined
+JavaScript error: https://www.maximonline.ru/, line 21: TypeError: cjs.Sprite is not a constructor
+[Parent 854, Gecko_IOThread] WARNING: pipe error (95): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 854, Gecko_IOThread] WARNING: pipe error (52): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1531823744241	geckodriver	INFO	geckodriver 0.19.1
+1531823744245	geckodriver	INFO	Listening on 127.0.0.1:41579
+1531823744344	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.mHM8FKUepMDH"
+1531823746464	Marionette	INFO	Listening on port 33305
+1531823746501	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:1166): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+JavaScript error: https://www.maximonline.ru/, line 10: ReferenceError: osdlfm is not defined
+JavaScript error: https://www.maximonline.ru/, line 42: ReferenceError: osdlfm is not defined
+JavaScript error: https://www.maximonline.ru/, line 1: ReferenceError: osdlfm is not defined
+JavaScript error: https://www.maximonline.ru/, line 21: TypeError: cjs.Sprite is not a constructor
+[Parent 1085, Gecko_IOThread] WARNING: pipe error (53): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1531823806056	geckodriver	INFO	geckodriver 0.19.1
+1531823806060	geckodriver	INFO	Listening on 127.0.0.1:43867
+1531823806157	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.kXp2pbhVqI4T"
+1531823808306	Marionette	INFO	Listening on port 36839
+1531823808410	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:1423): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+JavaScript error: https://www.maximonline.ru/, line 10: ReferenceError: osdlfm is not defined
+JavaScript error: https://www.maximonline.ru/, line 42: ReferenceError: osdlfm is not defined
+JavaScript error: https://www.maximonline.ru/, line 1: ReferenceError: osdlfm is not defined
+[Parent 1331, Gecko_IOThread] WARNING: pipe error (98): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 1331, Gecko_IOThread] WARNING: pipe error (53): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1531823924474	geckodriver	INFO	geckodriver 0.19.1
+1531823924477	geckodriver	INFO	Listening on 127.0.0.1:60227
+1531823929585	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.DepdFg3FDPqX"
+1531823931627	Marionette	INFO	Listening on port 37463
+1531823934594	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:1669): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+JavaScript error: https://www.maximonline.ru/, line 10: ReferenceError: osdlfm is not defined
+JavaScript error: https://www.maximonline.ru/, line 42: ReferenceError: osdlfm is not defined
+JavaScript error: https://www.maximonline.ru/, line 1: ReferenceError: osdlfm is not defined
+JavaScript error: https://www.maximonline.ru/, line 21: TypeError: cjs.Sprite is not a constructor
+[Child 1669, Chrome_ChildThread] WARNING: pipe error (22): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 1669, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1531823987490	geckodriver	INFO	geckodriver 0.19.1
+1531823987494	geckodriver	INFO	Listening on 127.0.0.1:43723
+1531823987599	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Zm6zS6hm4hxz"
+1531823989839	Marionette	INFO	Listening on port 44273
+1531823989849	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:1938): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+[Child 1938, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 1938, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 1938, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 1938, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 1938, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 1938, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Parent 1864, Gecko_IOThread] WARNING: pipe error (52): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1531824026130	geckodriver	INFO	geckodriver 0.19.1
+1531824026134	geckodriver	INFO	Listening on 127.0.0.1:44289
+1531824031237	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.zZ9cTqBpwQh5"
+1531824033321	Marionette	INFO	Listening on port 36795
+1531824036242	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:2208): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+JavaScript error: https://cstatic.weborama.fr/iframe/external_all.html, line 66: ReferenceError: Utils is not defined
+JavaScript error: https://cstatic.weborama.fr/iframe/external_ids_sync.html?d.r=1531824046546, line 53: ReferenceError: Utils is not defined
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x49000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 2130, Gecko_IOThread] WARNING: pipe error (53): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1531824106968	geckodriver	INFO	geckodriver 0.19.1
+1531824106971	geckodriver	INFO	Listening on 127.0.0.1:58869
+1531824107068	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.ymtGyBevJQi6"
+1531824109223	Marionette	INFO	Listening on port 38353
+1531824109345	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:2551): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+[Child 2551, Chrome_ChildThread] WARNING: pipe error (22): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 2551, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
