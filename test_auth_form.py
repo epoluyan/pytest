@@ -33,9 +33,9 @@ def test_auth_form(browser):
     driver.find_element_by_link_text('Войти').click()  
 
     elem_login = driver.find_element_by_name("regauth_login")
-    elem_login.send_keys("5ytzu@2odem.com")
+    elem_login.send_keys("login")
     elem_pass = driver.find_element_by_name("regauth_pass")
-    elem_pass.send_keys("123456")
+    elem_pass.send_keys("pass")
     time.sleep(1)
     driver.find_element_by_css_selector('.standard-button-newdesign').click()
     time.sleep(1)
